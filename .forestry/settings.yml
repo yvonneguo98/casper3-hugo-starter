@@ -14,11 +14,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/homepage
   label: Homepage
   create: all
